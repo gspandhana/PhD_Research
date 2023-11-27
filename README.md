@@ -1,4 +1,4 @@
-# PhD_Thesis
+# PhD Research
 This repository contains all the research carried out during my graduate school. Summary of my research, any code developed, and pdf of the published papers .
 
 <img src=./pH11_movie.gif width="250">
